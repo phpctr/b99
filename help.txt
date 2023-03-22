@@ -11,6 +11,7 @@ Bu işlevi sayesinde yorum (comment) backlink, tanıtım yazısı backlink gibi 
 Toplu (Bulk) olarak,
 - Backlink taramaları
 - Web adresi kaynak kodu taramaları
+- urllerde içerik taramaları
 - url erişilebilirliği taramaları
 
 [PROXY]
@@ -37,6 +38,7 @@ Thanks to this function, you can quickly scan your checklists such as comment ba
 In bulk,
 - Backlink scans
 - Web address code scans
+- content scans in urls
 - Url accessibility scans
 
 [PROXY]
