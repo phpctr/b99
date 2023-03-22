@@ -8,7 +8,8 @@ Bu işlevi sayesinde yorum (comment) backlink, tanıtım yazısı backlink gibi 
 [KULLANIM ALANLARI]
 Toplu (Bulk) olarak,
 - Backlink taramaları
-- Web adresi kodu taramaları
+- Web adresi kaynak kodu taramaları
+- url erişilebilirliği taramaları
 
 [PROXY]
 B99 Backlink Checker proxy desteklidir.  Https proxyler .txt dosyası içinde şu formatta olmalıdır:
@@ -30,6 +31,7 @@ Thanks to this function, you can quickly scan your checklists such as comment ba
 In bulk,
 - Backlink scans
 - Web address code scans
+- Url accessibility scans
 
 [PROXY]
 B99 Backlink Checker is proxy supported. Https proxies should be in the .txt file in the following format:
