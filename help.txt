@@ -20,8 +20,6 @@ Proxylerin hızı ve sağlığı tarama hızını ve başarısını etkiler. Tar
 [ÇIKTI]
 B99 Backlink Checker, bulduğu url'leri bir dosya olarak hazırlayarak ve .txt dosyası olarak kaydedebilmenize olanak sağlar.
 
-e-mail: beybutby@gmail.com
-
 --- ENGLISH ---
 
 B99 Backlink Checker is the desktop software I developed to scan bulk Url (address). It is completely FREE.
@@ -43,4 +41,5 @@ The speed and health of proxies affect scanning speed and success. You don't hav
 [OUTPUT]
 B99 Backlink Checker allows you to prepare the URLs it finds as a file and save it as a .txt file.
 
-e-mail: beybutby@gmail.com
+
+Contact: beybutby@gmail.com
