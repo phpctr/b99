@@ -1,0 +1,46 @@
+--- TÜRKÇE / TURKISH ---
+
+B99 Backlink Checker, toplu Url (adres) taramak için geliştirdiğim masaüstü yazılımdır. Tamamen ücretsizdir.
+Bu yazılım belirttiğiniz .txt dosyasında alt alta girilmiş web adreslerini belirttiğiniz girdiye göre tarar. Bu tarama sonucunda eğer girdiniz web adresinde mevcutsa ilgili adresi kaydedip istatistiğe dahil eder.
+Bu işlevi sayesinde yorum (comment) backlink, tanıtım yazısı backlink gibi kontrol listelerinizi hızlıca tarayabilirsiniz.
+
+
+[KULLANIM ALANLARI]
+Toplu (Bulk) olarak,
+- Backlink taramaları
+- Web adresi kodu taramaları
+
+[PROXY]
+B99 Backlink Checker proxy desteklidir.  Https proxyler .txt dosyası içinde şu formatta olmalıdır:
+ip:port
+veya
+ip:port:kullanıcıadı:şifre
+Proxylerin hızı ve sağlığı tarama hızını ve başarısını etkiler. Tarama yapmak için proxy listesi seçmek zorunda değilsiniz.
+
+[ÇIKTI]
+B99 Backlink Checker, bulduğu url'leri bir dosya olarak hazırlayarak ve .txt dosyası olarak kaydedebilmenize olanak sağlar.
+
+e-mail: beybutby@gmail.com
+
+--- ENGLISH ---
+
+B99 Backlink Checker is the desktop software I developed to scan bulk Url (address). It is completely FREE.
+This software scans the web addresses entered in the .txt file you specify, according to the entry you specify. As a result of this scan, if your entry is available in the web address, it will save the relevant address and include it in the statistics.
+Thanks to this function, you can quickly scan your checklists such as comment backlink, promotional article backlink.
+
+[USAGE AREAS]
+In bulk,
+- Backlink scans
+- Web address code scans
+
+[PROXY]
+B99 Backlink Checker is proxy supported. Https proxies should be in the .txt file in the following format:
+ip:port
+or 
+ip:port:username:password
+The speed and health of proxies affect scanning speed and success. You don't have to select a proxy list to scan.
+
+[OUTPUT]
+B99 Backlink Checker allows you to prepare the URLs it finds as a file and save it as a .txt file.
+
+e-mail: beybutby@gmail.com
